@@ -4,3 +4,4 @@ aaaaaaaaaa
 ・git add
 ・git commit
 skohgoa
+git status
