@@ -1,2 +1,5 @@
-Git�̗��K
+﻿Gitの練習
 aaaaaaaaaa
+変更
+・git add
+・git commit
