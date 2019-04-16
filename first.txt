@@ -5,3 +5,4 @@ aaaaaaaaaa
 ・git commit
 skohgoa
 git status
+git diff
